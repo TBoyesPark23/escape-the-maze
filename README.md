@@ -13,4 +13,10 @@ algorithm.
 `viz.py` can be used to create GIFs of the escape paths. GIFs are saved to the `gifs`
 directory.
 
-[escape-gif-6](./gifs/escape_6.gif)
+### Examples
+
+![escape-gif-4](./gifs/escape_4.gif)
+
+![escape-gif-5](./gifs/escape_5.gif)
+
+![escape-gif-6](./gifs/escape_6.gif)
