@@ -98,6 +98,7 @@ class Maze:
         """
         Uses a Breadth-first search approach to analyse each cell in the maze.
         """
+        print("Solving maze")
         starting_cell = self.get_cell(self.starting_x, self.starting_y)
 
         # list containing cells to be visited
