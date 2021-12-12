@@ -54,7 +54,7 @@ class MazeVisualiser:
 def main():
     for i, m in enumerate(MAZES):
         maze_visualiser = MazeVisualiser(maze=Maze(m))
-        maze_visualiser.escape_gif(f"escape_{i}.gif")
+        maze_visualiser.escape_gif(f"gifs/escape_{i}.gif")
 
 
 if __name__ == "__main__":
