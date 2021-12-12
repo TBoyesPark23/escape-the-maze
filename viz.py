@@ -48,6 +48,7 @@ class MazeVisualiser:
             format="GIF",
             append_images=frames[1:],
             save_all=True,
+            loop=0,
         )
 
 
